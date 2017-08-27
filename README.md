@@ -1,7 +1,6 @@
 # goldentomato_000
-Key Fobs and other
-
-**********************
-Ben eats lots of fucking dick
-
-This equals moola: $$$$$$$$$$$$$$
+Key Fob Project
+***************
+Logan - Admin/Java Swing Manager
+Ben - Java Programing Manager/Assistant to the Everything
+Elijah - SQL Database Manager
